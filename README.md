@@ -1,2 +1,2 @@
 # Carbon-PixN
-Carbon theme for The One Build and RGS
+Carbon theme for the RGS builds
